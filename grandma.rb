@@ -4,7 +4,8 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-def speak_to_grandma
+def speak_to_grandma(string)
+  if string == "I LOVE YOU GRANDMA!"
 
 end
 
