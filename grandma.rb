@@ -5,8 +5,8 @@
 # unless you shout it (type in all capitals).
 
 def speak_to_grandma(string)
-  if string = "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN!"
+  if !string = string.uppercase
+    return 'HUH?! SPEAK UP, SONNY!'
 end
 
 
