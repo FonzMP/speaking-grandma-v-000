@@ -4,7 +4,7 @@
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-def speak_to_grandma(phrase)
+def speak_to_grandma(string)
 
 end
 
